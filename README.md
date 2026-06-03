@@ -7,7 +7,7 @@ This project implements a multi-class image classification system using the CIFA
 The application is deployed and available live at the following link:
 * **Deployed App:** [https://vykhyghco4vyjkzydwzmvs.streamlit.app/]
 
-Features
+## Features
 - Image classification into 10 classes
 - Transfer learning using pretrained ResNet50
 - Prediction on custom images
@@ -15,11 +15,11 @@ Features
 - Model saving and loading
 
 
-Dataset
+## Dataset
 CIFAR-10 dataset contains 60,000 images across 10 classes:
 airplane, automobile, bird, cat, deer, dog, frog, horse, ship, truck.
 
-Tech Stack
+## Tech Stack
 - Python
 - TensorFlow / Keras
 - NumPy
@@ -27,7 +27,7 @@ Tech Stack
 - Matplotlib
 - OpenCV
 
-How to Run
+## How to Run
 
 bash
 pip install -r requirements.txt

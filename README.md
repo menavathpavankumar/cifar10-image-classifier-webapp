@@ -1,8 +1,11 @@
-CIFAR-10 Image Classification using ResNet50
+## CIFAR-10 Image Classification using ResNet50
 
-Project Description
+## Project Description
 This project implements a multi-class image classification system using the CIFAR-10 dataset and Transfer Learning with ResNet50.
 
+## Deployement
+The application is deployed and available live at the following link:
+* **Deployed App:** [https://vykhyghco4vyjkzydwzmvs.streamlit.app/]
 
 Features
 - Image classification into 10 classes
